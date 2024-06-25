@@ -1,3 +1,6 @@
 body {
     backface-visibility: hidden;
 }
+.header {
+    backface-visibility: visible;
+}
